@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Remera Martin Palermo",
+    "description": "$776.420 la recaudacion para esta nueva edicion del superclaMARTEEEEEEN GOL",
+    "price": 3500,
+    "status": true,
+    "thumbnail": "remeraMartin.png",
+    "code": "remeraMartinPalermo",
+    "stock": 25,
+    "id": 1
+  },
+  {
+    "title": "Remera caño a Yepes",
+    "description": "El caño del siglo",
+    "thumbnail": "remeracano.png",
+    "status": true,
+    "price": 3500,
+    "stock": 25,
+    "code": "remeraCano",
+    "id": 2
+  },
+  {
+    "title": "Remera Campeon del Mundo",
+    "description": "Messi levantando la copa del mundo",
+    "thumbnail": "remeraMessi.png",
+    "status": true,
+    "price": 3500,
+    "stock": 25,
+    "code": "remeraMessiCampeon",
+    "id": 3
+  },
+  {
+    "title": "Remera Atajada Dibu",
+    "description": "La atajada de todos los tiempos",
+    "thumbnail": "remeraDibu.png",
+    "status": true,
+    "price": 3500,
+    "stock": 25,
+    "code": "remeraDibu",
+    "id": 4
+  },
+  {
+    "title": "Remera gol en Muletas",
+    "description": "Ponelo al Enzo",
+    "code": "remeraGolMuletas",
+    "price": 3500,
+    "stock": 25,
+    "thumbnail": "golEnMuletas.png",
+    "id": 5,
+    "status": true
+  }
+]
